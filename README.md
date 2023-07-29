@@ -1,14 +1,24 @@
 <!-- Add your cover photo here -->
-![Cover Photo]([link_to_your_cover_photo.jpg](https://ibb.co/Zx61gnX))
+<p align="center">
+  <img src="https://i.ibb.co/Zx61gnX/cover-photo.jpg" alt="Cover Photo" style="max-width: 100%; border-radius: 8px;">
+</p>
 
 <h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
 <h3 align="center">Full-Stack Web Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-9f00ff?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Me-e91e63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://portfolio-f0233.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-9f00ff?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Me-e91e63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <p align="center">Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer with expertise in React.js, Node.js, and Express.js. I love to build amazing web applications that create a positive impact on people's lives.</p>
@@ -29,7 +39,7 @@
 
 <p align="center">
   📧 Email: [your.email@example.com](mailto:your.email@example.com) <br>
-  🌐 Portfolio: [yourwebsite.com](https://www.yourwebsite.com)
+  🌐 Portfolio: [yourwebsite.com](https://portfolio-f0233.web.app/)
 </p>
 
 <h2 align="center">📚 Know About My Experiences</h2>
@@ -41,7 +51,7 @@
 <h2 align="center">🎯 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmejunaied&show_icons=true&line_height=27&title_color=663399&icon_color=663399&text_color=333333&bg_color=fafafa" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmejunaied&show_icons=true&line_height=27&title_color=9f00ff&icon_color=9f00ff&text_color=333333&bg_color=fafafa" alt="GitHub Stats">
 </p>
 
 <h2 align="center">🚀 Top Languages</h2>
