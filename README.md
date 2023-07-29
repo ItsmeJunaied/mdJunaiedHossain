@@ -1,5 +1,5 @@
 <!-- Add your cover photo here -->
-![Cover Photo](https://yourimageshare.com/ib/x5bpWo718U)
+![Cover Photo](https://drive.google.com/file/d/1Cbeo62l4KciBf41xxibUFsDpgPtvRIvS/view?usp=sharing)
 
 <h1 align="center" style="color: #663399;">Hi there! 👋 I'm [Your Name]</h1>
 <h3 align="center" style="color: #663399;">Full-Stack Web Developer | JavaScript Enthusiast</h3>
