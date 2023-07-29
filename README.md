@@ -1,9 +1,9 @@
 <!-- Add your cover photo here -->
 <p align="center">
-  <img src="https://i.ibb.co/Zx61gnX/cover-photo.jpg" alt="Cover Photo" style="max-width: 100%; border-radius: 8px;">
+  <img src="[https://i.ibb.co/Zx61gnX/cover-photo.jpg](https://yourimageshare.com/ib/x5bpWo718U)" alt="Cover Photo" style="max-width: 100%; border-radius: 8px;">
 </p>
 
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm <span style="color: #8a2be2;">MD Junaied Hossain</span></h1>
 <h3 align="center">Full-Stack Web Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
